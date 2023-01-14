@@ -1,0 +1,21 @@
+{
+  "name": "javascript-lesson3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "husky": "^8.0.3"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "pretty-quick": "^3.1.3"
+  }
+}
